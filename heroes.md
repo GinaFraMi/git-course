@@ -11,3 +11,4 @@
 * Heroe 1 
 * Thor
 * Batman
+* Spiderman
