@@ -14,5 +14,3 @@
 * Spiderman
 * Gamora
 * Dr. Strange
-* Este cambio es para merge ff
-* * Este cambio es para merge AutoSolve
