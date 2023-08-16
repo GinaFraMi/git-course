@@ -8,3 +8,4 @@
  * Electro
  * Loki
  * Darth Vader
+ * Lotso
