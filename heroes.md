@@ -13,3 +13,4 @@
 * Batman
 * Spiderman
 * Gamora
+* Dr. Strange
