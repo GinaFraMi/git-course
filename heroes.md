@@ -12,3 +12,4 @@
 * Thor
 * Batman
 * Spiderman
+* Gamora
