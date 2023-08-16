@@ -7,3 +7,4 @@
  * Joker
  * Electro
  * Loki
+ * Darth Vader
