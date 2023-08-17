@@ -14,3 +14,4 @@
 * Spiderman
 * Gamora
 * Dr. Strange
+* Viuda Negra
