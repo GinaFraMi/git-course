@@ -11,3 +11,4 @@
  * Lotso
  * Otro villano
   * * Este cambio es para merge AutoSolve
+* Gargamel
