@@ -15,3 +15,4 @@
 * Gamora
 * Dr. Strange
 * Viuda Negra
+* Hereoe 18
