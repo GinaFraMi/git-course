@@ -15,3 +15,4 @@
 * Gamora
 * Dr. Strange
 * Heroe 17
+* Heroe 18 
